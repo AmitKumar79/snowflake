@@ -1,2 +1,2 @@
-# snowflake
-Auto-generated for local rebuild.
+# Snowflake Labs
+SQL, Warehouse design, and SnowPro Prep.
